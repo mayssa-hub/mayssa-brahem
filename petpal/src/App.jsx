@@ -7,6 +7,8 @@ import NotificationsCenter from "./components/NotificationsCenter";
 import MessagesInterface from "./components/Messages";
 import "./App.css";
 
+import PetManagementApp from './components/PetManagementApp'; 
+
 import Header from "./components/Header";
 import AuthenticatedHeader from "./components/AuthenticatedHeader";
 import Home from "./components/Home";
